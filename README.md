@@ -6,6 +6,7 @@ currently exploring **full stack dev** with a focus on **user experience** and *
 
 ## current
 - building [munch](https://www.instagram.com/jointhemunch/), a social media platform
+- building [the archives](https://github.com/samzeh/archives_front), an full stack ML book recommender
 - playing with [react native](https://reactnative.dev/)
 
 ## reach me
