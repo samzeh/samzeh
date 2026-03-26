@@ -7,7 +7,7 @@ currently exploring **full stack dev** with a focus on **user experience** and *
 ## current
 - building [munch](https://www.instagram.com/jointhemunch/), a social media platform
 - building [the archives](https://github.com/samzeh/archives_front), a full stack ML book recommender
-- playing with [react native](https://reactnative.dev/)
+- playing with [react native](https://reactnative.dev/) and [touch designer](https://derivative.ca/)
 
 ## reach me
 [email](mailto:samzehuang@gmail.com) | [linkedin](https://www.linkedin.com/in/samuelzh/) | [samuelhuang.me](https://samuelhuang.me/) <br>
