@@ -10,7 +10,7 @@ currently exploring **full stack dev** with a focus on **user experience** and *
 - playing with [react native](https://reactnative.dev/) and [touch designer](https://derivative.ca/)
 
 ## reach me
-[email](mailto:samzehuang@gmail.com) | [linkedin](https://www.linkedin.com/in/samuelzh/) | [samuelhuang.me](https://samuelhuang.me/)
+[email](mailto:samzehuang@gmail.com) | [linkedin](https://www.linkedin.com/in/samuelzh/) | [samuelzh.com](https://samuelzh.com/)
 <br>
 
 <img alt="roaming bees" src="https://github.com/user-attachments/assets/2a574cc5-600e-42a0-b2b6-4f821f19ec48">
