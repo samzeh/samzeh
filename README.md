@@ -1,6 +1,6 @@
 ## hey there! 👋
 
-i'm samuel, a first year [@ UWaterloo](https://uwaterloo.ca/) studying [Systems Design Engineering](https://uwaterloo.ca/future-students/programs/systems-design-engineering).   
+i'm samuel, a second year [@ UWaterloo](https://uwaterloo.ca/) studying [Systems Design Engineering](https://uwaterloo.ca/future-students/programs/systems-design-engineering).   
 
 currently exploring **design engineering** with a focus on **full stack development**. interested in integrating both front and backend infrastructures to create **seamless, user-centred products**.
 
